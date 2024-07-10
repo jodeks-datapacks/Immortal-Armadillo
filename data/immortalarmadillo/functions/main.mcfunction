@@ -1,0 +1,1 @@
+effect give @e[type=minecraft:armadillo, nbt={state:"scared"}] resistance 1 255 true
